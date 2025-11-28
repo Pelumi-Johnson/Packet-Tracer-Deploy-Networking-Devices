@@ -1,7 +1,7 @@
 # 🖧 Packet Tracer – Deploy Networking Devices
 
 📄 **Full Lab Report (Google Doc):**  
-👉 https://docs.google.com/YOUR-LINK-HERE
+👉 [Click here to open the complete lab report](https://github.com/Pelumi-Johnson/Packet-Tracer-Deploy-Networking-Devices/blob/main/Cisco%20Packet%20Tracer%201.pdf)
 
 ---
 
